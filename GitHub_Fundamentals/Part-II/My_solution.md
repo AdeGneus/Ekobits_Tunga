@@ -87,7 +87,7 @@
     SEE INTERVIEW #699607
     ```
 
-7. This is getting interesting as you are getting closer to the killer. Now, `cd` into the `interviews` folder and run the command for both witnesses using their interview ID. For `Annabel Sun`, type `cat interview-47246024`. You should the output below:
+7. This is getting interesting as you are getting closer to the killer. Now, `cd` into the `interviews` folder and run the command for both witnesses using their interview ID. For `Annabel Sun`, type `cat interview-47246024`. You should see the output below:
 
     ```bash
     Ms. Sun has brown hair and is not from New Zealand.  Not the witness from the cafe.
