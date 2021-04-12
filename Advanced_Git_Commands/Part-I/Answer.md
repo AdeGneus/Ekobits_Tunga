@@ -1,6 +1,7 @@
 #
 
-- For `git reset`, it removes the commit from the commmit history while `git revert` undoes the commit and append a new commit with its content. ![revert with commit shown](images/revert.jpg).
+- For `git reset`, it removes the commit from the commmit history while `git revert` undoes the commit and append a new commit with its content.
+![revert with commit shown](images/revert.jpg).
 
     It's not advisable to use `git reset` when working with other developers as it would lead to inconsistent history, so `git revert` is favored here
 
